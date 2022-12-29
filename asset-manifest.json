@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/demo-social-network/static/css/main.be5c345e.chunk.css",
-    "main.js": "/demo-social-network/static/js/main.d79e65fb.chunk.js",
-    "main.js.map": "/demo-social-network/static/js/main.d79e65fb.chunk.js.map",
-    "runtime-main.js": "/demo-social-network/static/js/runtime-main.4bc20ade.js",
-    "runtime-main.js.map": "/demo-social-network/static/js/runtime-main.4bc20ade.js.map",
+    "main.js": "/demo-social-network/static/js/main.224b8e94.chunk.js",
+    "main.js.map": "/demo-social-network/static/js/main.224b8e94.chunk.js.map",
+    "runtime-main.js": "/demo-social-network/static/js/runtime-main.965ba5ca.js",
+    "runtime-main.js.map": "/demo-social-network/static/js/runtime-main.965ba5ca.js.map",
     "static/css/2.a7f07a6b.chunk.css": "/demo-social-network/static/css/2.a7f07a6b.chunk.css",
     "static/js/2.9186422f.chunk.js": "/demo-social-network/static/js/2.9186422f.chunk.js",
     "static/js/2.9186422f.chunk.js.map": "/demo-social-network/static/js/2.9186422f.chunk.js.map",
@@ -14,8 +14,8 @@
     "static/js/4.07236b8f.chunk.js": "/demo-social-network/static/js/4.07236b8f.chunk.js",
     "static/js/4.07236b8f.chunk.js.map": "/demo-social-network/static/js/4.07236b8f.chunk.js.map",
     "static/css/5.a72f03e9.chunk.css": "/demo-social-network/static/css/5.a72f03e9.chunk.css",
-    "static/js/5.c77d39b4.chunk.js": "/demo-social-network/static/js/5.c77d39b4.chunk.js",
-    "static/js/5.c77d39b4.chunk.js.map": "/demo-social-network/static/js/5.c77d39b4.chunk.js.map",
+    "static/js/5.e277e8a8.chunk.js": "/demo-social-network/static/js/5.e277e8a8.chunk.js",
+    "static/js/5.e277e8a8.chunk.js.map": "/demo-social-network/static/js/5.e277e8a8.chunk.js.map",
     "static/js/6.bb9a0428.chunk.js": "/demo-social-network/static/js/6.bb9a0428.chunk.js",
     "static/js/6.bb9a0428.chunk.js.map": "/demo-social-network/static/js/6.bb9a0428.chunk.js.map",
     "index.html": "/demo-social-network/index.html",
@@ -27,10 +27,10 @@
     "static/media/incognito.jpeg": "/demo-social-network/static/media/incognito.bf62e8b7.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bc20ade.js",
+    "static/js/runtime-main.965ba5ca.js",
     "static/css/2.a7f07a6b.chunk.css",
     "static/js/2.9186422f.chunk.js",
     "static/css/main.be5c345e.chunk.css",
-    "static/js/main.d79e65fb.chunk.js"
+    "static/js/main.224b8e94.chunk.js"
   ]
 }
