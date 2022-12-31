@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Social Network Training App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to demo: https://sidovski30.github.io/demo-social-network/\
+Credentials\
+Email: sidneyvic21@gmail.com\
+Password: 12345678\
+\
+For testing in Safari/iPhone please turn off "Prevent cross-site tracking" in the setting of privacy
+
+#Description
+
+The website is written on React with Ant Design UI library. \
+This is a trainig project which is not finished yet. There are working Login/Logaut functionality, Profile, Developers and Chat pages. It is possible to add/delete posts, change main photo, description and status, browse developers pages and send message in the chat.\
+\
+Backend is constantly evolving and new pages will be implemented as it is updated. 
+
+
 
 ## Available Scripts
 
