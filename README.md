@@ -1,6 +1,6 @@
 # Social Network Training App
 
-Link to demo: https://sidovski30.github.io/demo-social-network/\
+Link to demo: https://sidovski30.github.io/demo-social-network/ \
 Credentials\
 Email: sidneyvic21@gmail.com\
 Password: 12345678\
