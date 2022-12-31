@@ -1,0 +1,14 @@
+.messages {
+    padding: 10px;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.messageWrap {
+    border: 1px solid rgb(67, 67, 67);
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}

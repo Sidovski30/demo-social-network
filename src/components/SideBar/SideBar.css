@@ -1,0 +1,13 @@
+.sidebar {
+    height: max-content;
+}
+@media (min-width: 768px) {
+    .sidebar {
+        border-radius: 12px;
+    }
+}
+@media (max-width: 767px) {
+    .sidebar {
+        border-inline-end: none !important;
+    }
+}

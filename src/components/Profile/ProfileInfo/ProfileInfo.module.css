@@ -1,0 +1,78 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}
+.label {
+    font-size: 12px;
+    color: rgb(98, 98, 98);
+}
+.infoRow {
+    line-height: 24px;
+}
+.avatar {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50%;
+    border: 2px solid #d9d9d9;
+}
+.avatar:hover {
+    border-radius: 50% !important;
+}
+.mob {
+    display: none;
+}
+.desk {
+    display: block;
+}
+.fullNameDesk {
+    font-size: 24px;
+}
+.uploadBtn {
+    position: absolute; 
+    bottom: 8px;
+    left: 2px;
+}
+.uploadBtn button {
+    background-color: rgb(245 245 245);
+    border-radius: 50px;
+    border: 1px solid #d9d9d9;
+}
+.fullNameMob {
+   display: none;     
+}
+.profileData {
+    margin-left: 2rem;
+    /* max-width: 330px; */
+}
+@media (max-width: 767px) {
+    .infoBlockWrap {
+        justify-content: center;
+    }
+    .infoBlock {
+        text-align: -webkit-center;
+    }
+    .mob {
+        display: block;
+    }
+    .desk {
+        display: none;
+    }
+    .fullNameDesk {
+        display: none;
+    }
+    .fullNameMob {
+        display: block;
+        margin: 1rem 0 0;
+        font-size: 20px;
+    }
+    .profileData {
+        margin-top: 1rem;
+        margin-left: 0;
+        max-width: 100%;
+    }
+   
+    
+}

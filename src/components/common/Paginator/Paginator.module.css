@@ -1,0 +1,19 @@
+.currentPage {
+    font-weight: 700;
+    cursor: pointer;
+}
+.otherPage {
+    font-weight: normal;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.paginator {
+    margin: 10px;
+}
+.pageNumber {
+    padding: 2px;
+}
+.pageNumber.selectedPage {
+    font-weight: bold;
+}
